@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/celsius"
+        android:icon="@drawable/ic_celsius"
+        android:title="Celsius"></item>
+    <item android:id="@+id/farhenheit"
+        android:icon="@drawable/ic_fahrenheit"
+        android:title="Fahrenheit"></item>
+    <item android:id="@+id/search"
+        android:icon="@drawable/ic_search"
+        android:title="Search"></item>
+</menu>
